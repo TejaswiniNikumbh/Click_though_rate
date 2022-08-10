@@ -1,5 +1,5 @@
 # Click_Through_Rate_Predictor
-Our team of two competed in the data science hackathon ("datahack ") in which <strong>we ranked under 150</strong>.
+Our team of two competed in the data science hackathon ("datahack ") in which <strong>we ranked under 500</strong>.
 
 # EDA and Model Building :
 The task was to determine the <strong>click-through rate of various email campaigns</strong> by considering a number of features
